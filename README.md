@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, install dependencies:
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 ```
 
 Node version: v20.11.1
